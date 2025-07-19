@@ -7,6 +7,6 @@
 </div>
 
 <div align="center">
-   <a href="https://rentry.co/rafag">rentry.co / rafag</a>
+   <a href="https://rentry.co/leafninja">rentry.co / leafninja</a>
 </div>
 
